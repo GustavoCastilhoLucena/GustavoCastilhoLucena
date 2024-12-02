@@ -11,6 +11,8 @@
 ### 🚀 Em 2023-1 Trabalhei no projeto da API com o Parceiro Acadêmico Vanguarda
   Trabalhamos no desenvolvimento de uma API inovadora, com foco em análise de dados sobre a Covid Longa nas cidades da região. Com ênfase em segurança e confiabilidade, a aplicação seguiu as melhores práticas de desenvolvimento orientado a objetos. O sistema permitiu a visualização de dados específicos como hospitalizações, sintomas e tratamentos, impactando diretamente o sistema de saúde regional. Ainda assim, desafios relacionados à padronização de dados foram superados para garantir a integridade das informações apresentadas.
 
+![Logo Consulta-vid](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/api/static/img/logo.png)
+
 **Tecnologias Utilizadas:**  
 JavaScript, Flask, HTML5, CSS3, MySQL, Figma  
 
@@ -21,12 +23,16 @@ Participei no desenvolvimento de funcionalidades para consulta e visualização 
 JavaScript, CSS, HTML, MySQL  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos  
+Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos
+
+[Link do Repositório](https://github.com/APIEquipe/EquipeTechEmpireAPI/tree/main)
 
 ---
 
 ### 🚀 Em 2023-2 Trabalhei no projeto da API com um Cliente Interno
   Projeto desenvolvido para otimizar a gestão de chamados de serviço. Incluindo funcionalidades para registro, consulta e exclusão de chamados, o sistema foi projetado para melhorar o atendimento ao usuário e o gerenciamento de informações. Cada funcionalidade foi integrada ao banco de dados para garantir eficiência e segurança nas operações. Evidentemente, a colaboração foi essencial para superar obstáculos relacionados à integração entre os diferentes módulos do sistema.
+
+![Logo Better Call Us](https://github.com/BananaaScript/BetterCallUs/blob/main/BetterCallUs/BetterCallUs/src/app/src/styles/img/logo.png)
 
 **Tecnologias Utilizadas:**  
 React, TypeScript, HTML5, CSS3, MySQL, Jira, Figma  
@@ -40,10 +46,14 @@ JavaScript, TypeScript, React, MySQL
 **Soft Skills Efetivamente Desenvolvidas:**  
 Proatividade no desenvolvimento, Resolução de problemas, Colaboração em equipe  
 
+[Link do Repositório](https://github.com/BananaaScript/BetterCallUs/tree/main)
+
 ---
 
 ### 🚀 Em 2024-2 Trabalhei no projeto da API com o Parceiro Acadêmico FAPG
 Desenvolvemos um portal de transparência inovador, focado na centralização, padronização e apresentação de dados relacionados a projetos acadêmicos. O sistema incluiu funcionalidades de busca detalhada, dashboards interativos e ferramentas administrativas, garantindo segurança e eficiência na gestão das informações apresentadas. Evidentemente, a estrutura modular foi fundamental para facilitar a implementação de novos recursos.
+
+![Logo FAPG](https://github.com/Code-Nine-FTC/API-2024.2-Front-End/blob/917be3c092f35dc1291dfcdbe599b2a3fe41686d/src/assets/logo-fapg.svg)
 
 **Tecnologias Utilizadas:**  
 React, TypeScript, HTML5, CSS3, MySQL, Figma  
@@ -55,7 +65,9 @@ Atuei na criação do frontend utilizando React, com foco na implementação de 
 React, TypeScript, Integração com Banco de Dados  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento  
+Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento
+
+[Link do Repositório](https://github.com/Code-Nine-FTC/API-2024.2/tree/main)
 
 ---
 
@@ -69,5 +81,5 @@ Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvol
 ---
 
 ## 📞 Contatos
-- **GitHub**  
-- **LinkedIn**  
+- [**GitHub**](https://github.com/GustavoCastilhoLucena)
+- [**LinkedIn**](https://www.linkedin.com/in/gustavo-de-castilho/)
