@@ -64,9 +64,8 @@ Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvol
 - Integração com Bancos de Dados  
 - Automação de Processos  
 - Machine Learning  
-- Gerenciamento de Projetos  
-- Nuvem Distribuída  
-
+- Gerenciamento de Projetos
+  
 ---
 
 ## 📞 Contatos
