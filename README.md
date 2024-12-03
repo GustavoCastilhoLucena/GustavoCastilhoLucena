@@ -17,13 +17,13 @@
 JavaScript, Flask, HTML5, CSS3, MySQL, Figma  
 
 **Contribuições Pessoais:**  
-Participei no desenvolvimento de funcionalidades para consulta e visualização de dados diretamente na interface do sistema, além de estilizar páginas para uma navegação mais intuitiva e agradável.
+  Participei no desenvolvimento de funcionalidades para consulta e visualização de dados diretamente na interface do sistema, além de estilizar páginas para uma navegação mais intuitiva e agradável.
 
 **Hard Skills Efetivamente Desenvolvidas:**  
 JavaScript, CSS, HTML, MySQL  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos
+  Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos. Todas as soft skills comuns do método ágil foram treinadas, com muita dificuldade por ser a primeira vez utilizando-o, troca de membros de equipe, de tecnologias e de planejamento, mas no final foi possível realizar a entrega dentro do pedido pelo cliente 
 
 [Link do Repositório](https://github.com/APIEquipe/EquipeTechEmpireAPI/tree/main)
 
@@ -44,7 +44,7 @@ Implementei sistemas conectados ao banco de dados, otimizando o envio e exclusã
 JavaScript, TypeScript, React, MySQL  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Proatividade no desenvolvimento, Resolução de problemas, Colaboração em equipe  
+  Proatividade no desenvolvimento, Resolução de problemas, Colaboração em equipe. Ainda aprendendo os fundamentos do método scrum, essa API foi difícil pela falta de agilidade da equipe, o atraso de entregas de tarefas, a troca de Scrum Master que ocorreu três vezes (sendo eu Scrum Master por um mês) e a troca de Product Owner que ocorreu duas vezes, além de outros membros terem sido aceitos. Apesar das sprints terem entregas atrasadas e todos os problemas, conseguimos entregar o projeto de forma a atender os requisitos acordados com o cliente.
 
 [Link do Repositório](https://github.com/BananaaScript/BetterCallUs/tree/main)
 
@@ -65,7 +65,7 @@ Atuei na criação do frontend utilizando React, com foco na implementação de 
 React, TypeScript, Integração com Banco de Dados  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento
+Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento. Nessa API, agora em outra equipe, demorei para me adaptar à mesma, no entanto consegui entregar mais resultado como desenvolvedor do que nos APIs anteriores. No entanto, houve muitas mudanças de membros na equipe, no início da primeira sprint e no fim da terceira sprint, onde terminamos com muitos membros, também aconteceram muitas mudanças no projeto diretamente na última semana, a pedido do cliente. No final, conseguimos entregar o possível dentro do acordado com o cliente, finalizando o projeto.
 
 [Link do Repositório](https://github.com/Code-Nine-FTC/API-2024.2/tree/main)
 
