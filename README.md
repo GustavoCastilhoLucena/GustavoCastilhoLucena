@@ -1,8 +1,6 @@
-# Gustavo de Castilho
+# Olá, sou o Gustavo de Castilho
 
-👨‍🎓 **Estudante de Computação**  
-🔬 **Técnico Químico**  
-🏫 **Fatec São José dos Campos (Fatec SJC)**  
+Sou **Técnico Químico** e **Estudante de Computação** na **Fatec São José dos Campos (Fatec SJC)**, e estas são minhas experiências na mesma.  
 
 ---
 
@@ -17,13 +15,13 @@
 JavaScript, Flask, HTML5, CSS3, MySQL, Figma  
 
 **Contribuições Pessoais:**  
-  Participei no desenvolvimento de funcionalidades para consulta e visualização de dados diretamente na interface do sistema, além de estilizar páginas para uma navegação mais intuitiva e agradável.
+  Participei no desenvolvimento de funcionalidades para consulta e visualização de dados diretamente na interface do sistema, além de estilizar páginas para uma navegação mais intuitiva e agradável. O método ágil foi aplicado pela primeira vez, com muita dificuldade por ser a primeira vez utilizando-o, também troca de membros de equipe, de tecnologias e de planejamento, mas no final foi possível realizar a entrega dentro do pedido pelo cliente.
 
 **Hard Skills Efetivamente Desenvolvidas:**  
 JavaScript, CSS, HTML, MySQL  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-  Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos. Todas as soft skills comuns do método ágil foram treinadas, com muita dificuldade por ser a primeira vez utilizando-o, troca de membros de equipe, de tecnologias e de planejamento, mas no final foi possível realizar a entrega dentro do pedido pelo cliente 
+  Autonomia no desenvolvimento de soluções, Trabalho em equipe, Resolução de problemas complexos.
 
 [Link do Repositório](https://github.com/APIEquipe/EquipeTechEmpireAPI/tree/main)
 
@@ -38,13 +36,13 @@ JavaScript, CSS, HTML, MySQL
 React, TypeScript, HTML5, CSS3, MySQL, Jira, Figma  
 
 **Contribuições Pessoais:**  
-Implementei sistemas conectados ao banco de dados, otimizando o envio e exclusão de informações, e garanti a funcionalidade e fluidez na operação do sistema.
+Como desenvolvedor, implementei sistemas conectados ao banco de dados, otimizando o envio e exclusão de informações, e garanti a funcionalidade e fluidez na operação do sistema. Como Scrum Master, Fiz a organização de planilhas para ajudar a equipe na parte de organização de tarefas, sendo as mesmas concordadas e construídas com ajuda de todos os membros. Ainda aprendendo os fundamentos do método scrum, essa API foi difícil pela falta de agilidade da equipe, o atraso de entregas de tarefas, a troca de Scrum Master que ocorreu três vezes (sendo eu Scrum Master por um mês) e a troca de Product Owner que ocorreu duas vezes, além de outros membros terem sido aceitos. Apesar das sprints terem entregas atrasadas e todos os problemas, conseguimos entregar o projeto de forma a atender os requisitos acordados com o cliente.
 
 **Hard Skills Efetivamente Desenvolvidas:**  
-JavaScript, TypeScript, React, MySQL  
+JavaScript, TypeScript, React, MySQL, Slack
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-  Proatividade no desenvolvimento, Resolução de problemas, Colaboração em equipe. Ainda aprendendo os fundamentos do método scrum, essa API foi difícil pela falta de agilidade da equipe, o atraso de entregas de tarefas, a troca de Scrum Master que ocorreu três vezes (sendo eu Scrum Master por um mês) e a troca de Product Owner que ocorreu duas vezes, além de outros membros terem sido aceitos. Apesar das sprints terem entregas atrasadas e todos os problemas, conseguimos entregar o projeto de forma a atender os requisitos acordados com o cliente.
+  Proatividade no desenvolvimento, Resolução de problemas, Colaboração em equipe.
 
 [Link do Repositório](https://github.com/BananaaScript/BetterCallUs/tree/main)
 
@@ -59,13 +57,13 @@ Desenvolvemos um portal de transparência inovador, focado na centralização, p
 React, TypeScript, HTML5, CSS3, MySQL, Figma  
 
 **Contribuições Pessoais:**  
-Atuei na criação do frontend utilizando React, com foco na implementação de funcionalidades de recebimento e envio de dados para o backend, além de estilizar as páginas para garantir uma interface intuitiva e responsiva.
+Atuei na criação do frontend utilizando React, com foco na implementação de funcionalidades de recebimento e envio de dados para o backend, além de estilizar as páginas para garantir uma interface intuitiva e responsiva. Nessa API, agora em outra equipe, demorei para me adaptar à mesma, no entanto consegui entregar mais resultado como desenvolvedor do que nos APIs anteriores. No entanto, houve muitas mudanças de membros na equipe, no início da primeira sprint e no fim da terceira sprint, onde terminamos com muitos membros, também aconteceram muitas mudanças no projeto diretamente na última semana, a pedido do cliente. No final, conseguimos entregar o possível dentro do acordado com o cliente, finalizando o projeto.
 
 **Hard Skills Efetivamente Desenvolvidas:**  
 React, TypeScript, Integração com Banco de Dados  
 
 **Soft Skills Efetivamente Desenvolvidas:**  
-Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento. Nessa API, agora em outra equipe, demorei para me adaptar à mesma, no entanto consegui entregar mais resultado como desenvolvedor do que nos APIs anteriores. No entanto, houve muitas mudanças de membros na equipe, no início da primeira sprint e no fim da terceira sprint, onde terminamos com muitos membros, também aconteceram muitas mudanças no projeto diretamente na última semana, a pedido do cliente. No final, conseguimos entregar o possível dentro do acordado com o cliente, finalizando o projeto.
+Agilidade na execução de tarefas, Trabalho colaborativo, Autonomia no desenvolvimento.
 
 [Link do Repositório](https://github.com/Code-Nine-FTC/API-2024.2/tree/main)
 
