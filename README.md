@@ -54,7 +54,7 @@ Desenvolvemos um portal de transparência inovador, focado na centralização, p
 ![Logo FAPG](https://github.com/Code-Nine-FTC/API-2024.2-Front-End/blob/917be3c092f35dc1291dfcdbe599b2a3fe41686d/src/assets/logo-fapg.svg)
 
 **Tecnologias Utilizadas:**  
-React, TypeScript, HTML5, CSS3, MySQL, Figma  
+React, TypeScript, Java, HTML5, CSS3, MySQL, Figma  
 
 **Contribuições Pessoais:**  
 Atuei na criação do frontend utilizando React, com foco na implementação de funcionalidades de recebimento e envio de dados para o backend, além de estilizar as páginas para garantir uma interface intuitiva e responsiva. Nessa API, agora em outra equipe, demorei para me adaptar à mesma, no entanto consegui entregar mais resultado como desenvolvedor do que nos APIs anteriores. No entanto, houve muitas mudanças de membros na equipe, no início da primeira sprint e no fim da terceira sprint, onde terminamos com muitos membros, também aconteceram muitas mudanças no projeto diretamente na última semana, a pedido do cliente. No final, conseguimos entregar o possível dentro do acordado com o cliente, finalizando o projeto.
